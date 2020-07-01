@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewController2.swift
 //  NavigationItem
 //
 //  Created by a1111 on 2020/07/01.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,4 +17,3 @@ class ViewController: UIViewController {
 
 
 }
-
